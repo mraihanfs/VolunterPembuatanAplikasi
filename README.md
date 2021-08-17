@@ -5,3 +5,4 @@ Repository ini digunakan sebagai sayembara pencarian volunter untuk pembuatan ap
 
 Berikut daftar volunter yang telah diterima:
 * Oon Arfiandwi, [oo.or.id](https://oo.or.id).
+* Muhammad Raihan Fais Sya'bani, [Linkedin](https://www.linkedin.com/in/mraihanfs/).
